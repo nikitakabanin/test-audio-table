@@ -1,0 +1,10 @@
+tr[mat-row]:hover {
+  background-color: whitesmoke;
+  cursor: pointer;
+}
+
+:host {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
